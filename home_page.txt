@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to home page!
+=======
+Welcome to home page!
+>>>>>>> origin/master
