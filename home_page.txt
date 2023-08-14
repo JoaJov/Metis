@@ -1,5 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Welcome to home page!
 =======
 Welcome to home page!
 >>>>>>> origin/master
+=======
+Welcome to home page!
+Nav:
+Home
+Register
+Login
+>>>>>>> 6807db4514d8b92cf18194a0034e1d2c91fb0de1
