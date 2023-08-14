@@ -6,4 +6,6 @@ Nav:
 Home
 Register
 Login
+Contact us hello@metis.com
+
 
