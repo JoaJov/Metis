@@ -5,5 +5,5 @@ Enter confirm password: _________________
 
 |_| I agree to Terms and Conditions
 |_| I agree to receive emails
-
+Contact us hello@metis.com
 | Register |
